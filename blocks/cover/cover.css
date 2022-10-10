@@ -1,0 +1,318 @@
+.cover {
+  margin: 0 auto 92px;
+  max-width: 1184px;
+  min-height: 740px;
+  background-image: url(../../images/cover-trains.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+	display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.cover::after {
+  content: '';
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover:hover::after {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 1184px){
+  .cover {
+    min-height: 740px;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  .cover {
+    min-height: 725px;
+  }
+}
+
+@media screen and (max-width: 1140px){
+  .cover {
+    min-height: 712.5px;
+  }
+}
+
+@media screen and (max-width: 1120px){
+  .cover {
+    min-height: 700px;
+  }
+}
+
+@media screen and (max-width: 1100px){
+  .cover {
+    min-height: 687.5px;
+  }
+}
+
+@media screen and (max-width: 1080px){
+  .cover {
+    min-height: 675px;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  .cover {
+    min-height: 662.5px;
+  }
+}
+
+@media screen and (max-width: 1040px){
+  .cover {
+    min-height: 650px;
+  }
+}
+
+@media screen and (max-width: 1024px){
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  .cover {
+    min-height: 625px;
+  }
+}
+
+@media screen and (max-width: 980px){
+  .cover {
+    min-height: 612.5px;
+  }
+}
+
+@media screen and (max-width: 960px){
+  .cover {
+    min-height: 600px;
+  }
+}
+
+@media screen and (max-width: 940px){
+  .cover {
+    min-height: 587.5px;
+  }
+}
+
+@media screen and (max-width: 920px){
+  .cover {
+    min-height: 575px;
+  }
+}
+
+@media screen and (max-width: 900px){
+  .cover {
+    min-height: 562.5px;
+  }
+}
+
+@media screen and (max-width: 880px){
+  .cover {
+    min-height: 550px;
+  }
+}
+
+@media screen and (max-width: 860px){
+  .cover {
+    min-height: 537.5px;
+  }
+}
+
+@media screen and (max-width: 840px){
+  .cover {
+    min-height: 525px;
+  }
+}
+
+@media screen and (max-width: 820px){
+  .cover {
+    min-height: 512.5px;
+  }
+}
+
+@media screen and (max-width: 800px){
+  .cover {
+    min-height: 500px;
+  }
+}
+
+@media screen and (max-width: 790px){
+  .cover {
+    min-height: 493.75px;
+  }
+}
+
+@media screen and (max-width: 780px){
+  .cover {
+    min-height: 487.5px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .cover {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 740px){
+  .cover {
+    min-height: 462.5px;
+  }
+}
+
+@media screen and (max-width: 720px){
+  .cover {
+    min-height: 450px;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .cover {
+    min-height: 437.5px;
+  }
+}
+
+@media screen and (max-width: 680px){
+  .cover {
+    min-height: 425px;
+  }
+}
+
+@media screen and (max-width: 660px){
+  .cover {
+    min-height: 412.5px;
+  }
+}
+
+@media screen and (max-width: 640px){
+  .cover {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 620px){
+  .cover {
+    min-height: 387.5px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .cover {
+    min-height: 375px;
+  }
+}
+
+@media screen and (max-width: 580px){
+  .cover {
+    min-height: 362.5px;
+  }
+}
+
+@media screen and (max-width: 560px){
+  .cover {
+    min-height: 350px;
+  }
+}
+
+@media screen and (max-width: 540px){
+  .cover {
+    min-height: 337.5px;
+  }
+}
+
+@media screen and (max-width: 520px){
+  .cover {
+    min-height: 325px;
+  }
+}
+
+@media screen and (max-width: 500px){
+  .cover {
+    min-height: 312.5px;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .cover {
+    min-height: 300px;
+  }
+}
+
+@media screen and (max-width: 460px){
+  .cover {
+    min-height: 287.5px;
+  }
+}
+
+@media screen and (max-width: 440px){
+  .cover {
+    min-height: 275px;
+  }
+}
+
+@media screen and (max-width: 430px){
+  .cover {
+    min-height: 268.75px;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .cover {
+    min-height: 265.625px;
+  }
+}
+
+@media screen and (max-width: 410px){
+  .cover {
+    min-height: 256.25px;
+  }
+}
+
+@media screen and (max-width: 400px){
+  .cover {
+    min-height: 250px;
+  }
+}
+
+@media screen and (max-width: 390px){
+  .cover {
+    min-height: 243.75px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .cover {
+    min-height: 234.375px;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .cover {
+    min-height: 225px;
+  }
+}
+
+@media screen and (max-width: 340px){
+  .cover {
+    min-height: 212.5px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .cover {
+    min-height: 200px;
+  }
+}
