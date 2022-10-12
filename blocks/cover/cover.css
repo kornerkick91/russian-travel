@@ -5,75 +5,69 @@
   min-height: 740px;
 }
 
-@media screen and (max-width: 1184px){
+@media screen and (max-width: 1184px) {
   .cover {
     min-height: 740px;
   }
 }
 
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1100px) {
   .cover {
-    min-height: 687.5px;
+    min-height: 688px;
   }
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
   .cover {
     min-height: 640px;
   }
 }
 
-@media screen and (max-width: 940px){
+@media screen and (max-width: 940px) {
   .cover {
-    min-height: 587.5px;
+    min-height: 588px;
   }
 }
 
-@media screen and (max-width: 840px){
+@media screen and (max-width: 840px) {
   .cover {
     min-height: 525px;
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .cover {
     margin-bottom: 88px;
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 680px){
+@media screen and (max-width: 680px) {
   .cover {
     min-height: 425px;
   }
 }
 
-@media screen and (max-width: 580px){
+@media screen and (max-width: 580px) {
   .cover {
-    min-height: 362.5px;
+    min-height: 363px;
   }
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
   .cover {
-    min-height: 312.5px;
+    min-height: 313px;
   }
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
   .cover {
     margin-bottom: 64px;
-    min-height: 265.625px;
+    min-height: 266px;
   }
 }
 
-@media screen and (max-width: 375px){
-  .cover {
-    min-height: 234.375px;
-  }
-}
-
-@media screen and (max-width: 320px){
+@media screen and (max-width: 320px) {
   .cover {
     min-height: 200px;
   }

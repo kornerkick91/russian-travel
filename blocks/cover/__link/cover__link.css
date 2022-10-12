@@ -10,6 +10,7 @@
   cursor: pointer;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 .cover__link::before {
@@ -27,7 +28,7 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
   .cover__link {
     gap: 16px;
   }

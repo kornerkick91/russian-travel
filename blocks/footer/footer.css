@@ -6,26 +6,26 @@
   min-height: 18px;
 }
 
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1280px) {
   .footer {
     margin: 0 48px 24px;
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .footer {
     margin: 0 24px 24px;
   }
 }
 
-@media screen and (max-width: 710px){
+@media screen and (max-width: 680px) {
   .footer {
     flex-direction: column;
     gap: 48px;
   }
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
   .footer {
     margin: 0 16px 24px;
   }
